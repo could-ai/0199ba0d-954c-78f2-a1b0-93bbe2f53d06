@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import '../models/school_class.dart';
+import '../models/student.dart';
 import 'student_list_screen.dart';
 
 class ClassListScreen extends StatelessWidget {
